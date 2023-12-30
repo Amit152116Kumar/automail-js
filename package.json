@@ -1,0 +1,26 @@
+{
+  "name": "automailer",
+  "version": "1.0.0",
+  "description": "Application designed to manage your email responses seamlessly while you're on vacation.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amit152116Kumar/automail-js.git"
+  },
+  "author": "Amit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amit152116Kumar/automail-js/issues"
+  },
+  "homepage": "https://github.com/Amit152116Kumar/automail-js#readme",
+  "dependencies": {
+    "axios": "^1.6.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "googleapis": "^105.0.0",
+    "node-cron": "^3.0.3"
+  }
+}
